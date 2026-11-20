@@ -1,0 +1,7 @@
+{
+  "name": "backrooms-premium-proxy",
+  "private": true,
+  "type": "commonjs",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
